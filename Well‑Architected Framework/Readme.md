@@ -4,7 +4,7 @@ The Well‑Architected Framework is a set of best practices and guidelines for d
 # The Six Pillars (Core of the Framework)
 These pillars reflect best practices for creating well-architected cloud applications
 ## 1. Operational Excellence
-- Operational excellence (OE) is a commitment to build software correctly while consistentlydelivering a great customer experience. The operational excellence pillar contains best practices fororganizing your team, designing your workload, operating it at scale, and evolving it over time.
+- Operational excellence (OE) is a commitment to build software correctly while consistently delivering a great customer experience. The operational excellence pillar contains best practices for organizing your team, designing your workload, operating it at scale, and evolving it over time.
 - **Goal:** Automate, monitor, and improve operations.
 - **Developer Actions:**
   - Use Infrastructure as Code (CloudFormation, CDK).
